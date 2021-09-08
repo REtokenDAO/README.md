@@ -102,6 +102,6 @@ Token ID: RETOKEN
 polygonscan confirmation: https://polygonscan.com/address/0x48FBAA61DE702becB9b4AC0c6aFe3F9abcaFF914
 
 # The Vote
-
 Yes - I Agree to the $RETOKEN | Token Policy
+
 No - I DO NOT agree to the $RETOKEN | Token Policy
